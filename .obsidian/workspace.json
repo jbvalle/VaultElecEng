@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "463cbd202f404d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "864e91806c62cd50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10f882a7e5858290",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/EE_arch.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a9ff32e69701dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f456ff84aa3f42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbfaf4ea8cd18261",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98fc56bc28e1b405",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "891e61014322c1eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "57f09c283cdbb893",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9f211062e8c458c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9c8dfa02b57c423",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/EE_arch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c3fcfe44ec0c689",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/EE_arch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e9ed04aac4e76da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e9c0c5768e6bc96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/EE_arch.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "10f882a7e5858290",
+  "lastOpenFiles": [
+    "Excalidraw/EE_arch.png",
+    "EE/EE_Arch.md",
+    "Excalidraw/EE_arch.md",
+    "EE/Untitled",
+    "EE/Do_ElecSfty",
+    "EE/Do_ComSys",
+    "EE/Do_CntrSys",
+    "EE/Do_Elec",
+    "EE/Do_Elec",
+    "EE/Do_PwrSys_EDo",
+    "EE",
+    "Excalidraw/Drawing 2023-12-08 18.24.39.excalidraw.png",
+    "Excalidraw/Drawing 2023-12-08 18.24.39.excalidraw.svg",
+    "Excalidraw"
+  ]
+}
